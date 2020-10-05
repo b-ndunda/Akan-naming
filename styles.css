@@ -1,0 +1,66 @@
+.form-group{
+    margin:5px;
+    display:flex;
+    flex-direction:column;
+}
+form{
+    margin-top:5px;
+}
+.form-check-label{
+    margin-right:20px;
+}
+.col-lg-3{
+    margin:15px;
+    margin-right:75px;
+}
+button{
+    margin-top:10px;
+}
+legend{
+    background-color:white;
+    color:#00203FFF;
+    text-align:center;
+}
+.jumbotron{
+    position:relative;
+    z-index: 2;
+    box-shadow: 0 9px 16px -6px #00203FFF;
+    background-color:blueviolet;
+    padding:10px;
+    margin-top:5px;
+}
+body{
+    background-color:whitesmoke;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1,p{
+    text-align:center;
+    color:#ADEFD1FF;
+}
+fieldset{
+    background-color:blueviolet;
+    color:#ADEFD1FF;
+    border:0px solid rgba(250,250,250,0.7);
+    box-shadow: 0px 9px 16px -6px ;
+}
+.licence{
+    border:1px solid #00203FFF;
+    background-color:blueviolet;
+    color:#00203FFF;
+    text-align:center;
+    margin-top:2%;
+    margin-bottom:1%;
+}
+.licence p{
+    color:#ADEFD1FF;
+    margin-top:1%;
+}
+img{
+    height:100%;
+    width:100%;
+    padding:2%;
+}
+#display{
+    text-align:center;
+    font-size: 50px;
+}
